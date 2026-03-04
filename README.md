@@ -1,2 +1,23 @@
-# Todo_List_Application
-A simple Todo List web application to manage daily tasks. Users can add and delete tasks. Built using Node.js, Express.js, MongoDB, Mongoose with a simple HTML/CSS frontend and RESTful APIs.
+# Todo List Application
+
+A simple Todo List web app to **add and delete tasks** using **Node.js, Express.js, MongoDB, and Mongoose** with a basic **HTML/CSS frontend**.
+
+## Technologies
+Node.js | Express.js | REST APIs | MongoDB | Mongoose | HTML | CSS | JavaScript | Fetch API
+
+## Features
+- Add and delete tasks dynamically  
+- View all tasks  
+- Backend CRUD operations with Express.js  
+- Clean frontend using HTML & CSS  
+
+## Project Structure
+todo-app
+│
+├── server.js
+├── package.json
+├── models
+│ └── Todo.js
+└── public
+├── index.html
+└── style.css
